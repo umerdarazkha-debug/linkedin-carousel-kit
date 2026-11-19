@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-carousel-kit",
+  "version": "1.0.0",
+  "description": "Write LinkedIn carousel slides in one JS file and render them to 1080x1350 PNGs and a PDF, with an overflow check.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "node shot.cjs"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
